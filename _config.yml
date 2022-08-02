@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 嵌入式程序猿攻城狮
+subtitle: '和有趣的人做尽有趣的事'
+description: '嵌入式相关学习记录'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: George Gao
+language: zh-CN #en
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
